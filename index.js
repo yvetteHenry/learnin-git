@@ -1,2 +1,2 @@
 
-Console("hello git");
+Console("hello git and GitHub");
